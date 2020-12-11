@@ -1,6 +1,7 @@
 # Tarea2_FOR_LOOP
 
-###ANTES QUE NADA DESCARGAR Y EJECUTAR LIBRERIA "TIDIVERSE"
+## ANTES QUE NADA DESCARGAR Y EJECUTAR LIBRERIA "TIDYVERSE"
+
 ## Pregunta 1: Cargue las bases de datos incoporando en cada una de ellas la variable “tamanio”,
 donde indique de que tamaño es la empresa de ese país
 
@@ -18,9 +19,9 @@ una de las variables que se encuentran en la data.
 Se reunen las bases de datos en base al comando "union_all" donde deben ser colocados
 todos los nombres de las variables.
    TIPOLOGIA
-  FECHA: Era un character, que se  cambia a fecha ( se hace mas adelante para graficar)
-  PAIS:  Es un character.
-  INGRESOS: Es numeric.
+ FECHA: Era un character, que se  cambia a fecha ( se hace mas adelante para graficar)
+ PAIS:  Es un character.
+ INGRESOS: Es numeric.
  COSTOS: Es numeric.
  PORCENTAJE_MUJERES:Es numeric.
  EXPORTACIONES: Es numeric.

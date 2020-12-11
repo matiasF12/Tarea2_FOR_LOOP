@@ -1,7 +1,12 @@
+############################################################################################
+################################# MATIAS FARIAS VALDENEGRO ################################# 
+
+
+###Carga de libreria
 library(tidyverse)
 
 
-
+#esto se debe cambiar
 setwd("~/Github/Tarea2_FOR_LOOP")
 
 ###### PREGUNTA 1: Cargar bases de datos y creacion de variable "tamanio" #######
