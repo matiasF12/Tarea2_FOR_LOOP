@@ -39,7 +39,7 @@ versus Chile.
 En base a for e if se determina la cantidad de observaciones de Peru y Chile, resultando
 tener un total de 260 observaciones cada pais.	
 
-##Pregunta 4: Determine a través del uso de condicionales y/o for ¿cuál es el país con mayor
+## Pregunta 4: Determine a través del uso de condicionales y/o for ¿cuál es el país con mayor
 ingresos de explotación para los años que considera la muestra.
 
 En base a los condicionales for e if, se obtiene que el pais con mayor cantidad de ingresos
