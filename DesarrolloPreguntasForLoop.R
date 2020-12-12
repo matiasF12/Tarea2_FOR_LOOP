@@ -43,7 +43,6 @@ Grandes_CH$tamanio[Grandes_CH$tamanio == "chile"] <- "grande"
 Grandes_CO$tamanio[Grandes_CO$tamanio == "colombia"] <- "grande"
 Grandes_PE$tamanio[Grandes_PE$tamanio == "peru"] <- "grande"
 
-
 #generar variable en base a pais
 Mediana_CH <- mutate(Mediana_CH, tamanio = pais)
 Mediana_CO <- mutate(Mediana_CO, tamanio = pais)
@@ -223,6 +222,8 @@ Empresa2$fecha <- as.Date(Empresa2$fecha, format="%d-%m-%Y")
 ggplot(data = Empresa2, aes(x=fecha, y=ingresos, group = pais, color= pais)) +
   geom_line() + ggtitle("Evolucion de los ingresos de las empresas por pais")
 
-## grafico 3: 
+
+
+
 
 
