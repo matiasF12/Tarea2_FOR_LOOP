@@ -51,7 +51,7 @@ Se redondea al primer decimal y luego se utiliza condicionales for e if con las
 condiciones mencionadas, resultando 520 observaciones con valores 1 (mayor a 2,1) 
 y 260 observaciones con valores 2 ( menor que 2,1).
 
-## Pregunta 7:  Gráfique algunas variables seleccionadas, las cuales puedan responder a una ### pregunta que se haga con respecto a los datos.
+## Pregunta 7:  Gráfique algunas variables seleccionadas, las cuales puedan responder a una pregunta que se haga con respecto a los datos.
 
 **Grafico 1:**  Este gráfico busca responder a la diferencia de ingresos por pais y a su vez por el tamaño de la empres.Colombia tiene ingresos 
 parecidos en las pequeñas, micro, mediana y gran empresa.  Peru y Chile tienen una pequeña variación de ingreso entre los tamaños de empresas.
